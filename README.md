@@ -1,3 +1,1 @@
-# snake.py
-Snake.py
-First program that I coded alone from scratch.
+First Python program that I coded alone from scratch. The Tkinter window close randomly when eating apple, need to debug.
