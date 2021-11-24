@@ -3,7 +3,6 @@ from random import *
 
 
 def move():
-    test;
     global deplacement
     global score
     global labelScore
